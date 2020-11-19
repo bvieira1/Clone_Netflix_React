@@ -2,6 +2,18 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![Login Page](https://github.com/bvieira1/Clone_Netflix_React/blob/main/src/assets/01.png)
+
+![Login Page](https://github.com/bvieira1/Clone_Netflix_React/blob/main/src/assets/02.png)
+
+![Login Page](https://github.com/bvieira1/Clone_Netflix_React/blob/main/src/assets/03.png)
+
+API address in NodeJs
+
+https://github.com/bvieira1/API_Nodejs_mongoDB
+
+APPLICATION IN CRUD
+
 ## Available Scripts
 
 In the project directory, you can run:
